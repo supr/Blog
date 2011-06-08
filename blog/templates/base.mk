@@ -22,7 +22,7 @@
 		</header>
 
 		<div id="main" role="main">
-
+		<%block name="page_content"/>
 		</div>
 
 		<footer>
