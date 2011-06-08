@@ -1,0 +1,4 @@
+*~ # Emacs backups
+*.pyc
+Blog.egg-info/*
+*.swp # Vim swap files
